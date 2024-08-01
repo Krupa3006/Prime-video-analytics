@@ -1,5 +1,4 @@
 # Prime-video-analytics
-# Prime Video Analytics Dashboard
 
 ## Overview
 
